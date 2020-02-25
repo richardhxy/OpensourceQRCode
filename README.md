@@ -1,6 +1,3 @@
-# OpensourceQRCode
-OpensourceQRCode
-
 
 ## 讨论
 
